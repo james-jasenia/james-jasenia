@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is James and I am an iOS Developer at GrowthOps.
+My name is James and I am an Mobile Developer at Officeworks.
 
 - 🎹 Hobbies are drawing, piano and real time strategy games.
 - 🍣 Love Japanese and Lebanese food.
