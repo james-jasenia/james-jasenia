@@ -5,8 +5,6 @@ My name is James and I am an Mobile Developer at Officeworks.
 - 🎹 Hobbies are drawing, piano and real time strategy games.
 - 🍣 Love Japanese and Lebanese food.
 - ☕️ Coffee addict would be putting it mildly.
-- 🔨 Working on a variety of projects including IoT and hybrid Unity/Native.
-- 🌱 Currently working to complete the iOS Lead Essentials course.
 
 ## Latest Personal Project:
 
