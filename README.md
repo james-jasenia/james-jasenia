@@ -8,8 +8,8 @@ My name is James and I am an Mobile Developer at Officeworks.
 
 ## Latest Personal Project:
 
-### Mood
-An iOS app that allows users to share short voice clips presented in a new feed. The focus of the app was to use a TDD approach and modularise the codebase into smaller projects. 
+### Pop Phonics (WIP)
+A Phonics app for teachers and parents that allows children to develop the core reading skills of segmenting, blending, and connecting letters to sounds.
 
 ### ConferenceKit 
 ![find](/ConferenceKit.jpg)
