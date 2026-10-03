@@ -2,14 +2,14 @@
 
 My name is James and I am an Mobile Developer at Officeworks.
 
-- 🎹 Hobbies are drawing, piano and real time strategy games.
+- 🎹 Hobbies are drawing, building, exercise and gaming.
 - 🍣 Love Japanese and Lebanese food.
 - ☕️ Coffee addict would be putting it mildly.
 
 ## Latest Personal Project:
 
 ### Pop Phonics (WIP)
-A Phonics app for teachers and parents that allows children to develop the core reading skills of segmenting, blending, and connecting letters to sounds.
+A Phonics app for teachers and parents that allows children to develop the core reading skills of segmenting, blending, and connecting letters to sounds. Built using native frameworks for iOS and Android using AI Code Assist and a lot of wrangling.
 
 ### ConferenceKit 
 ![find](/ConferenceKit.jpg)
