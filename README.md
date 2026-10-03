@@ -9,6 +9,8 @@ My name is James and I am an Mobile Developer at Officeworks.
 ## Latest Personal Project:
 
 ### Pop Phonics (WIP)
+![find](/popphonics-phones.png)
+
 A Phonics app for teachers and parents that allows children to develop the core reading skills of segmenting, blending, and connecting letters to sounds. Built using native frameworks for iOS and Android using AI Code Assist and a lot of wrangling.
 
 ### ConferenceKit 
